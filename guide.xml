@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SESC TV [Brazil]">
+    <display-name lang="pt">SESC TV [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Shoptime [Brazil]">
+    <display-name lang="pt">Shoptime [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SIC International [Brazil]">
+    <display-name lang="pt">SIC International [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Sony [Brazil]">
+    <display-name lang="pt">Sony [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPACE [Brazil]">
+    <display-name lang="pt">SPACE [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
